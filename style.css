@@ -14,7 +14,7 @@
   position: sticky;
   z-index: 99;
   top: 0;
-  box-shadow: 0.2px 0.2px 5px rgba(0, 0, 0, 0.5);
+  box-shadow: 0.2px 0.2px 5px rgba(0, 0, 0, 0.2);
 }
 .header header {
   display: flex;
@@ -39,7 +39,7 @@
   display: flex;
   width: 40rem;
   margin-top: 0.5rem;
-  margin-left: 1rem;
+  margin-left: 5rem;
   justify-content: space-between;
 }
 .header header nav ul li a {
